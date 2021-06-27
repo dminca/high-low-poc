@@ -7,6 +7,10 @@ import (
 	"strings"
 )
 
+func main() string {
+	HighAndLow("10 20 42 73")
+}
+
 func HighAndLow(in string) string {
 	numStrings := strings.Fields(in)
 	var nums = []int{}
