@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-func main() string {
+func main() {
 	HighAndLow("10 20 42 73")
 }
 
