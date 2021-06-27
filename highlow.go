@@ -1,4 +1,4 @@
-package main
+package highlow
 
 import (
 	"fmt"
@@ -6,10 +6,6 @@ import (
 	"strconv"
 	"strings"
 )
-
-func main() {
-	HighAndLow("10 20 42 73")
-}
 
 // HighAndLow takes a string of space separated numbers
 // and returns the highest and lowest number

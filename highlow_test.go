@@ -1,7 +1,7 @@
 // Ginkgo BDD Testing Framework <http://onsi.github.io/ginkgo/>
 // Gomega Matcher Library <http://onsi.github.io/gomega/>
 
-package main
+package highlow
 
 import (
 	"math"
