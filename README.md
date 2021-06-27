@@ -1,4 +1,4 @@
-<center>[![codecov](https://codecov.io/gh/dminca/high-low-poc/branch/master/graph/badge.svg?token=WUIGCUQ7H6)](https://codecov.io/gh/dminca/high-low-poc) [![CI](https://github.com/dminca/high-low-poc/actions/workflows/main.yml/badge.svg)](https://github.com/dminca/high-low-poc/actions/workflows/main.yml)</center>
+<p style="text-align:center">[![codecov](https://codecov.io/gh/dminca/high-low-poc/branch/master/graph/badge.svg?token=WUIGCUQ7H6)](https://codecov.io/gh/dminca/high-low-poc) [![CI](https://github.com/dminca/high-low-poc/actions/workflows/main.yml/badge.svg)](https://github.com/dminca/high-low-poc/actions/workflows/main.yml)</p>
 
 # High-low number return
 > Experiment to return the highest and lowest number when
