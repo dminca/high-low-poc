@@ -11,6 +11,8 @@ func main() {
 	HighAndLow("10 20 42 73")
 }
 
+// given a string of space separated numbers
+// return the highest and lowest number
 func HighAndLow(in string) string {
 	numStrings := strings.Fields(in)
 	var nums = []int{}
